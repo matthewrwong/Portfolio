@@ -1,0 +1,9 @@
+Title: An examination of well-child visits and vaccine coverage in a Seattle Federally Qualified Health Center
+
+Group Members: Fernanda Montoya, Matthew Wong, Sujing Zhang
+
+Sponsor: Valerie J. Rock, MD, MPH – Country Doctor Community Health Centers
+
+ 
+
+Description: Pediatric preventative health care addresses not only the development and well-being of a child, but also concerns the health of a population. Disruptions to preventative health care can have serious ramifications on both individual and population health. It is also known that these disruptions are not felt equally across a population, often with those of an underserved background most impacted. This project focuses on describing and identifying how both well-child visit attendance and vaccine coverage differs between subpopulations of interest. Our analyses utilized modified Poisson regression to estimate prevalence ratios describing the differences in both visit attendance and vaccine uptake for various subpopulations of patients. This work is a first step toward addressing disparities in the health care setting and identifying populations that may benefit from different approaches to well-child visits and vaccines.
